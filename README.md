@@ -72,15 +72,10 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Marcela Romero**  
-**E:** omnibus.type@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Designer of Devanagari version
-
 **N:** **Nicolas Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Font Production/ Designer of Devanagari version
+**D:** Font Production
 
 **N:** **Pablo Cosgaya**  
 **E:** omnibus.type@gmail.com  
