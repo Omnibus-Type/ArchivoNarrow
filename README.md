@@ -7,7 +7,7 @@ Archivo Narrow was designed to be used simultaneously in print and digital platf
 
 Archivo is a *grotesque sans serif* typeface family from [Omnibus Type](http://omnibus-type.com/). It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces. It includes Narrow and Black styles, and was derived from Chivo.
 
-![Sample of Archivo Narrow.](ArchivoNarrow.gif "Archivo Narrow")
+![Sample of Archivo Narrow.](SRC/ArchivoNarrow.gif "Archivo Narrow")
 
 ####Archivo Narrow contains:
 * regular/italic
@@ -21,7 +21,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2012-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Archivo'
+Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -50,6 +50,15 @@ This information should be distributed along with the Archivo fonts and any deri
 * Alphabetic Presentation Forms (2 glyphs)
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**27 January 2015 (Omnibus Type) Archivo Narrow v1.003**  
+- Removed Reserve Font Name from the license
+- Name tables adjusted
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- Unified index glyphs in all family
+- Added Family Alignment Zones
 
 **23 June 2013 (Omnibus Type) Archivo Narrow v1.003**
 - Fixed Name Table (Thanks to Dave Crossland for his technical input.)
