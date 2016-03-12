@@ -51,6 +51,14 @@ This information should be distributed along with the Archivo fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**6 April 2015 (Pragati v.1.007) Omnibus-Type**
+- New ueMatra anchors
+- Fixed linked anchors in nukta instances
+- Inserted 'lookupflag IgnoreMarks' in pres
+- Separated oeMatra from the shoulder
+- Inserted rakar anchors
+- Fixed Rakar before halant (Half Vattu Nukta)
+
 **27 January 2015 (Omnibus Type) Archivo Narrow v1.003**  
 - Removed Reserve Font Name from the license
 - Name tables adjusted
