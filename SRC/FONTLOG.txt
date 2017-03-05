@@ -28,6 +28,9 @@ Alphabetic Presentation Forms (2 glyphs)
 
 To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
 
+5 March 2017 (Pragati v.1.008) Omnibus-Type
+- Created New Weights: Medium and Semibold
+
 27 January 2015 (Omnibus Type) Archivo Narrow v1.003 
 - Removed Reserve Font Name from the license
 - Name tables adjusted

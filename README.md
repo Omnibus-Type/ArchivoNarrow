@@ -10,8 +10,10 @@ Archivo is a *grotesque sans serif* typeface family from [Omnibus Type](http://o
 ![Sample of Archivo Narrow.](SRC/ArchivoNarrow.gif "Archivo Narrow")
 
 ####Archivo Narrow contains:
-* regular/italic
-* bold/bolditalic
+* Regular/Italic
+* Medium/MediumItalic
+* Semibold/SemiboldItalic
+* Bold/Bolditalic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -21,7 +23,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2012-2017, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -50,6 +52,9 @@ This information should be distributed along with the Archivo fonts and any deri
 * Alphabetic Presentation Forms (2 glyphs)
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**5 March 2017 (Pragati v.1.008) Omnibus-Type**
+- Created New Weights: Medium and Semibold
 
 **6 April 2015 (Pragati v.1.007) Omnibus-Type**
 - New ueMatra anchors
