@@ -53,6 +53,9 @@ This information should be distributed along with the Archivo fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**21 May 2017 (Pragati v.1.009) Omnibus-Type**
+- Added alternative ampersand
+
 **5 March 2017 (Pragati v.1.008) Omnibus-Type**
 - Created New Weights: Medium and Semibold
 
