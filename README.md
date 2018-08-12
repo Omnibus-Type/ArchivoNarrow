@@ -7,7 +7,7 @@ Archivo Narrow was designed to be used simultaneously in print and digital platf
 
 Archivo is a *grotesque sans serif* typeface family from [Omnibus Type](http://omnibus-type.com/). It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces. It includes Narrow and Black styles, and was derived from Chivo.
 
-![Sample of Archivo Narrow.](SRC/ArchivoNarrow.gif "Archivo Narrow")
+![Sample of Archivo Narrow.](sources/ArchivoNarrow.gif "Archivo Narrow")
 
 ####Archivo Narrow contains:
 * Regular/Italic
@@ -23,7 +23,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2012-2017, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2012-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -52,6 +52,9 @@ This information should be distributed along with the Archivo fonts and any deri
 * Alphabetic Presentation Forms (2 glyphs)
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**12 August 2018 (Yorlmar Campos) Archivo Narrow v1.010**
+- Support for GF Latin Plus
 
 **21 May 2017 (Pragati v.1.009) Omnibus-Type**
 - Added alternative ampersand
@@ -97,12 +100,17 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Font Production
+**D:** Typeface development
 
 **N:** **Pablo Cosgaya**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
+
+**N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
