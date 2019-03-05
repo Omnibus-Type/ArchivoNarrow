@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1163";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow)";
+copyright = "Copyright 2018 The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow) with Reserved Font Name \"Archivo Narrow\".";
 customParameters = (
 {
 name = trademark;
@@ -48983,6 +48983,6 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 };
-versionMajor = 2;
-versionMinor = 0;
+versionMajor = 1;
+versionMinor = 10;
 }

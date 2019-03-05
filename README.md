@@ -19,11 +19,11 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
 
-* Hector Gatti
+* Héctor Gatti
 
 ### License
 
-Copyright (c) 2012-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -53,16 +53,17 @@ This information should be distributed along with the Archivo fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**12 August 2018 (Yorlmar Campos) Archivo Narrow v1.010**
-- Support for GF Latin Plus
+**12 August 2018 Archivo Narrow v2.000**
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
-**21 May 2017 (Pragati v.1.009) Omnibus-Type**
+**21 May 2017 (Pragati v.1.009)**
 - Added alternative ampersand
 
-**5 March 2017 (Pragati v.1.008) Omnibus-Type**
+**5 March 2017 (Pragati v.1.008)**
 - Created New Weights: Medium and Semibold
 
-**6 April 2015 (Pragati v.1.007) Omnibus-Type**
+**6 April 2015 (Pragati v.1.007)**
 - New ueMatra anchors
 - Fixed linked anchors in nukta instances
 - Inserted 'lookupflag IgnoreMarks' in pres
@@ -70,7 +71,7 @@ This information should be distributed along with the Archivo fonts and any deri
 - Inserted rakar anchors
 - Fixed Rakar before halant (Half Vattu Nukta)
 
-**27 January 2015 (Omnibus Type) Archivo Narrow v1.003**  
+**27 January 2015 Archivo Narrow v1.003**  
 - Removed Reserve Font Name from the license
 - Name tables adjusted
 - fsType Installable Mode
@@ -79,15 +80,15 @@ This information should be distributed along with the Archivo fonts and any deri
 - Unified index glyphs in all family
 - Added Family Alignment Zones
 
-**23 June 2013 (Omnibus Type) Archivo Narrow v1.003**
+**23 June 2013 Archivo Narrow v1.003**
 - Fixed Name Table (Thanks to Dave Crossland for his technical input.)
 - Updated hinting with ttfautohint (v0.95) with the next values: `ttfautohint -l 8 -r 50 -G 200 -x 14 -w "G" -W [IN-FILE [OUT-FILE]]`
 
-**02 October 2012 (Omnibus Type) Archivo Narrow v1.002**
+**02 October 2012 Archivo Narrow v1.002**
 - Fixed encoding Tables and index (Thanks to Theunis de Jong for his technical input.)
 - Fixed TTF Naming Tables
 
-**22 August 2012 (Omnibus Type) Archivo Narrow v1.002**
+**22 August 2012 Archivo Narrow v1.002**
 - Initial release under SIL Open Font License
 
 ### Acknowledgements
@@ -95,7 +96,7 @@ This information should be distributed along with the Archivo fonts and any deri
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer

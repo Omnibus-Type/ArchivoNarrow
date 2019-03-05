@@ -28,8 +28,9 @@ Alphabetic Presentation Forms (2 glyphs)
 
 To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
 
-12 August 2018 (Yorlmar Campos) Archivo Narrow v1.010**
-- Support for GF Latin Plus
+12 August 2018 Archivo Narrow v2.000**
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
 21 May 2017 (Pragati v.1.009) Omnibus-Type
 - Added alternative ampersand
@@ -62,7 +63,7 @@ Acknowledgements
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
