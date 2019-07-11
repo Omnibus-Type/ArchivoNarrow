@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow)";
+copyright = "Copyright 2019 The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow)";
 customParameters = (
 {
 name = trademark;
@@ -538,11 +538,11 @@ value = 303;
 },
 {
 name = hheaAscender;
-value = 878;
+value = 1035;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -312;
 },
 {
 name = hheaLineGap;
@@ -784,11 +784,11 @@ value = 303;
 },
 {
 name = hheaAscender;
-value = 878;
+value = 1035;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -312;
 },
 {
 name = hheaLineGap;
@@ -63901,19 +63901,17 @@ leftKerningGroup = circumflexcomb;
 rightKerningGroup = circumflexcomb;
 },
 {
-glyphname = NULL;
+glyphname = uni0000;
 layers = (
 {
 layerId = UUID0;
-width = 0;
+width = 600;
 },
 {
 layerId = "31F25340-C351-400F-9C98-C04A412D1947";
-width = 0;
+width = 600;
 }
 );
-leftKerningGroup = NULL;
-rightKerningGroup = NULL;
 unicode = 0000;
 },
 {
@@ -64417,5 +64415,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }

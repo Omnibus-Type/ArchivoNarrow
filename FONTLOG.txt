@@ -28,6 +28,9 @@ Alphabetic Presentation Forms (2 glyphs)
 
 To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
 
+11 July 2019 Arhcivo Narrow v2.001**
+- Made hhea metrics the same values as typo metrics
+
 12 August 2018 Archivo Narrow v2.000**
 - Updated to GF Latin Plus set
 - Supports 219 Latin languages used in 212 countries
