@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow)";
+copyright = "Copyright 2019 The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow)";
 customParameters = (
 {
 name = trademark;
@@ -66,17 +66,18 @@ featurePrefixes = (
 automatic = 1;
 code = "languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem cyrl dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
 languagesystem latn GUA;
 languagesystem latn CRT;
 languagesystem latn NLD;
-languagesystem latn TAT;
 languagesystem latn CAT;
 languagesystem latn KAZ;
 languagesystem latn MOL;
 languagesystem latn ROM;
 languagesystem latn PLK;
+languagesystem cyrl TAT;
 ";
 name = Languagesystems;
 }
@@ -92,7 +93,6 @@ feature numr;
 feature dnom;
 feature frac;
 feature ordn;
-feature salt;
 feature lnum;
 feature pnum;
 feature tnum;
@@ -133,6 +133,7 @@ lookup ccmp_latn_1 {
 } ccmp_latn_1;
 
 script latn;
+lookup ccmp_latn_1;
 ";
 name = ccmp;
 },
@@ -163,8 +164,6 @@ sub i by idotaccent;
 language NLD;
 sub iacute j' by jacute;
 sub Iacute J' by Jacute;
-language TAT;
-sub i by idotaccent;
 language CAT;
 sub l periodcentered' l by periodcentered.loclCAT;
 sub L periodcentered' L by periodcentered.loclCAT.case;
@@ -192,6 +191,10 @@ sub oacute by oacute.loclPLK;
 sub sacute by sacute.loclPLK;
 sub zacute by zacute.loclPLK;
 sub acute by acute.loclPLK;
+
+script cyrl;
+language TAT;
+sub i by idotaccent;
 ";
 name = locl;
 },
@@ -294,12 +297,6 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 sub N o period by numero;
 ";
 name = ordn;
-},
-{
-code = " # Stylistic Alternates
- # DEFAULT
-    sub ampersand by ampersand.alt;";
-name = salt;
 },
 {
 automatic = 1;
@@ -496,12 +493,6 @@ sub zero.tosf by zero.tosf.zero;
 sub zero by zero.zero;
 ";
 name = zero;
-},
-{
-automatic = 1;
-code = "pos @Uppercase <5 0 10 0>;
-";
-name = cpsp;
 }
 );
 fontMaster = (
@@ -599,11 +590,11 @@ value = 303;
 },
 {
 name = hheaAscender;
-value = 878;
+value = 1035;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -312;
 },
 {
 name = hheaLineGap;
@@ -741,11 +732,11 @@ value = 303;
 },
 {
 name = hheaAscender;
-value = 878;
+value = 1035;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -312;
 },
 {
 name = hheaLineGap;
@@ -48479,19 +48470,17 @@ leftKerningGroup = circumflexcomb;
 rightKerningGroup = circumflexcomb;
 },
 {
-glyphname = NULL;
+glyphname = uni0000;
 layers = (
 {
 layerId = UUID0;
-width = 0;
+width = 600;
 },
 {
 layerId = "F1687A9F-F053-405E-AE0C-19A259C4FF7F";
-width = 0;
+width = 600;
 }
 );
-leftKerningGroup = NULL;
-rightKerningGroup = NULL;
 unicode = 0000;
 },
 {
@@ -48984,5 +48973,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
