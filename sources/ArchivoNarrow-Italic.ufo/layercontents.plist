@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>new Layer</string>
+      <string>glyphs.new L_ayer</string>
+    </array>
+    <array>
+      <string>new Layer #1</string>
+      <string>glyphs.new L_ayer #1</string>
+    </array>
+    <array>
+      <string>new Layer #2</string>
+      <string>glyphs.new L_ayer #2</string>
+    </array>
+    <array>
+      <string>new Layer #3</string>
+      <string>glyphs.new L_ayer #3</string>
+    </array>
+    <array>
+      <string>new Layer #4</string>
+      <string>glyphs.new L_ayer #4</string>
+    </array>
+  </array>
+</plist>

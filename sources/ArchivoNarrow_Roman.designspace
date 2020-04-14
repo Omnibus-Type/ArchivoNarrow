@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="82"/>
+      <map input="500" output="94"/>
+      <map input="600" output="107"/>
+      <map input="700" output="120"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="ArchivoNarrow-Regular.ufo" name="Archivo Narrow Regular" familyname="Archivo Narrow" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+    </source>
+    <source filename="ArchivoNarrow-Bold.ufo" name="Archivo Narrow Bold" familyname="Archivo Narrow" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Archivo Narrow Regular" familyname="Archivo Narrow" stylename="Regular" filename="instance_ufos/ArchivoNarrow-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>5</integer>
+                <integer>6</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>UUID0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Archivo Narrow Medium" familyname="Archivo Narrow" stylename="Medium" filename="instance_ufos/ArchivoNarrow-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="94"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>6</integer>
+                <integer>6</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>31F25340-C351-400F-9C98-C04A412D1947</key>
+            <real>0.31579</real>
+            <key>UUID0</key>
+            <real>0.68421</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Archivo Narrow SemiBold" familyname="Archivo Narrow" stylename="SemiBold" filename="instance_ufos/ArchivoNarrow-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="107"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>7</integer>
+                <integer>6</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>31F25340-C351-400F-9C98-C04A412D1947</key>
+            <real>0.65789</real>
+            <key>UUID0</key>
+            <real>0.34211</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Archivo Narrow Bold" familyname="Archivo Narrow" stylename="Bold" filename="instance_ufos/ArchivoNarrow-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>8</integer>
+                <integer>6</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>11</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>31F25340-C351-400F-9C98-C04A412D1947</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+</designspace>

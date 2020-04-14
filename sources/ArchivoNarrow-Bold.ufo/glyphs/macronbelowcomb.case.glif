@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb.case" format="2">
+  <anchor x="128" y="0" name="_bottom"/>
+  <anchor x="128" y="-182" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="0" y="-154" type="line"/>
+      <point x="255" y="-154" type="line"/>
+      <point x="255" y="-67" type="line"/>
+      <point x="0" y="-67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>255</integer>
+    </dict>
+  </lib>
+</glyph>

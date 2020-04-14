@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <outline>
+    <contour>
+      <point x="81" y="479" type="line"/>
+      <point x="146" y="479" type="line"/>
+      <point x="191" y="574" type="line"/>
+      <point x="191" y="686" type="line"/>
+      <point x="67" y="686" type="line"/>
+      <point x="67" y="563" type="line"/>
+      <point x="116" y="563" type="line"/>
+    </contour>
+  </outline>
+</glyph>
