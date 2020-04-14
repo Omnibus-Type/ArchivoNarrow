@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="600"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="19" y="-12" type="line"/>
+      <point x="88" y="-12" type="line"/>
+      <point x="581" y="698" type="line"/>
+      <point x="513" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="551" type="line"/>
+      <point x="233" y="551" type="line"/>
+      <point x="252" y="686" type="line"/>
+      <point x="127" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="492" y="135" type="line"/>
+      <point x="367" y="135" type="line"/>
+    </contour>
+  </outline>
+</glyph>

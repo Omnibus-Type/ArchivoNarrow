@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>76F17502-367F-435E-B23E-ED9D928E777B</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.emspace</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.enspace</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.fourperemspace</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.threeperemspace</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>

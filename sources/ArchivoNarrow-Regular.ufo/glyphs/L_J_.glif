@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="816"/>
+  <unicode hex="01C7"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="80" type="line"/>
+      <point x="158" y="80" type="line"/>
+      <point x="158" y="686" type="line"/>
+      <point x="70" y="686" type="line"/>
+    </contour>
+    <component base="J" xOffset="406"/>
+  </outline>
+</glyph>
