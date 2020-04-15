@@ -154,8 +154,6 @@
     <integer>123</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>F1687A9F-F053-405E-AE0C-19A259C4FF7F</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
