@@ -5,18 +5,17 @@
 # automatic
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem cyrl dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
 languagesystem latn GUA;
 languagesystem latn CRT;
 languagesystem latn NLD;
+languagesystem latn TAT;
 languagesystem latn CAT;
 languagesystem latn KAZ;
 languagesystem latn MOL;
 languagesystem latn ROM;
 languagesystem latn PLK;
-languagesystem cyrl TAT;
 
 
 feature aalt {
@@ -29,6 +28,7 @@ feature numr;
 feature dnom;
 feature frac;
 feature ordn;
+feature salt;
 feature lnum;
 feature pnum;
 feature tnum;
@@ -40,6 +40,18 @@ feature zero;
 
 feature ccmp {
 # automatic
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_latn_1;
+
 lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [brevebelowcomb cedillacomb commaaccent dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb slashlongcomb slashshortcomb strokelongcomb strokeshortcomb];
@@ -55,18 +67,6 @@ lookup ccmp_Other_2 {
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
 } ccmp_Other_2;
-
-lookup ccmp_latn_1 {
-	lookupflag 0;
-	sub brevecomb acutecomb by brevecomb_acutecomb;
-	sub brevecomb gravecomb by brevecomb_gravecomb;
-	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
-	sub brevecomb tildecomb by brevecomb_tildecomb;
-	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
-	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
-	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
-	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-} ccmp_latn_1;
 
 script latn;
 lookup ccmp_latn_1;
@@ -100,6 +100,8 @@ sub i by idotaccent;
 language NLD;
 sub iacute j' by jacute;
 sub Iacute J' by Jacute;
+language TAT;
+sub i by idotaccent;
 language CAT;
 sub l periodcentered' l by periodcentered.loclCAT;
 sub L periodcentered' L by periodcentered.loclCAT.case;
@@ -127,10 +129,6 @@ sub oacute by oacute.loclPLK;
 sub sacute by sacute.loclPLK;
 sub zacute by zacute.loclPLK;
 sub acute by acute.loclPLK;
-
-script cyrl;
-language TAT;
-sub i by idotaccent;
 
 } locl;
 
@@ -233,6 +231,12 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 sub N o period by numero;
 
 } ordn;
+
+feature salt {
+ # Stylistic Alternates
+ # DEFAULT
+    sub ampersand by ampersand.alt;
+} salt;
 
 feature lnum {
 # automatic
