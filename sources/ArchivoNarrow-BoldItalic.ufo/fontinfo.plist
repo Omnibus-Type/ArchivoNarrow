@@ -125,6 +125,10 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Archivo Narrow Bold</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
     <string>Bold Italic</string>
     <key>trademark</key>
