@@ -250,8 +250,6 @@
     <integer>120</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>31F25340-C351-400F-9C98-C04A412D1947</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
