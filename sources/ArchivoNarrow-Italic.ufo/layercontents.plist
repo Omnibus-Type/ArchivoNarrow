@@ -10,25 +10,5 @@
       <string>public.background</string>
       <string>glyphs.public.background</string>
     </array>
-    <array>
-      <string>new Layer</string>
-      <string>glyphs.new L_ayer</string>
-    </array>
-    <array>
-      <string>new Layer #1</string>
-      <string>glyphs.new L_ayer #1</string>
-    </array>
-    <array>
-      <string>new Layer #2</string>
-      <string>glyphs.new L_ayer #2</string>
-    </array>
-    <array>
-      <string>new Layer #3</string>
-      <string>glyphs.new L_ayer #3</string>
-    </array>
-    <array>
-      <string>new Layer #4</string>
-      <string>glyphs.new L_ayer #4</string>
-    </array>
   </array>
 </plist>
