@@ -25,7 +25,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Archivo Narrow Italic" familyname="Archivo Narrow" stylename="Italic" filename="instance_ufos/ArchivoNarrow-Italic.ufo">
+    <instance name="Archivo Narrow Italic" familyname="Archivo Narrow" stylename="Italic" filename="instance_ufos/ArchivoNarrow-Italic.ufo" stylemapfamilyname="Archivo Narrow" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="85"/>
       </location>
@@ -55,19 +55,6 @@
               <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>UUID0</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -101,21 +88,6 @@
               <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>F1687A9F-F053-405E-AE0C-19A259C4FF7F</key>
-            <real>0.31579</real>
-            <key>UUID0</key>
-            <real>0.68421</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -149,25 +121,10 @@
               <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>F1687A9F-F053-405E-AE0C-19A259C4FF7F</key>
-            <real>0.65789</real>
-            <key>UUID0</key>
-            <real>0.34211</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Archivo Narrow Bold Italic" familyname="Archivo Narrow" stylename="Bold Italic" filename="instance_ufos/ArchivoNarrow-BoldItalic.ufo">
+    <instance name="Archivo Narrow Bold Italic" familyname="Archivo Narrow" stylename="Bold Italic" filename="instance_ufos/ArchivoNarrow-BoldItalic.ufo" stylemapfamilyname="Archivo Narrow" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="123"/>
       </location>
@@ -197,19 +154,6 @@
               <string>--default-script=latn --windows-compatibility --adjust-subglyphs --composites --no-info --stem-width-mode=sss</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>F1687A9F-F053-405E-AE0C-19A259C4FF7F</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
