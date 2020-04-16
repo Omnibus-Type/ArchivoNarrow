@@ -9,6 +9,8 @@
       <dict>
         <key>name</key>
         <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
       </dict>
     </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.eight.osf</key>
