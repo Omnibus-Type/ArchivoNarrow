@@ -4,6 +4,13 @@
   <dict>
     <key>GSCornerRadius</key>
     <integer>45</integer>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.eight.osf</key>
     <dict>
       <key>RMXScaler</key>
