@@ -1,7 +1,7 @@
 {
-.appVersion = "1352";
+.appVersion = "1342";
 DisplayStrings = (
-"/IJ/Jacute/ij/jacute/lj/nj"
+"/acutecomb.case.loclPLK/Sacute.loclPLK"
 );
 classes = (
 {
@@ -19595,7 +19595,7 @@ rightKerningGroup = Y.loclGUA;
 },
 {
 glyphname = Cacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -19607,21 +19607,13 @@ position = "{296, 686}";
 components = (
 {
 name = C;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"337 751 LINE",
-"415 910 LINE",
-"414 913 LINE",
-"324 913 LINE",
-"268 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -19637,21 +19629,13 @@ position = "{307, 686}";
 components = (
 {
 name = C;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, 34, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"357 751 LINE",
-"435 910 LINE",
-"434 913 LINE",
-"314 913 LINE",
-"258 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -19663,7 +19647,7 @@ rightKerningGroup = C;
 },
 {
 glyphname = Nacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -19675,21 +19659,13 @@ position = "{296, 686}";
 components = (
 {
 name = N;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"337 751 LINE",
-"415 910 LINE",
-"414 913 LINE",
-"324 913 LINE",
-"268 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -19705,21 +19681,13 @@ position = "{296, 686}";
 components = (
 {
 name = N;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"346 751 LINE",
-"424 910 LINE",
-"423 913 LINE",
-"303 913 LINE",
-"247 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -19731,7 +19699,7 @@ rightKerningGroup = N;
 },
 {
 glyphname = Oacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -19743,21 +19711,13 @@ position = "{319, 686}";
 components = (
 {
 name = O;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"360 751 LINE",
-"438 910 LINE",
-"437 913 LINE",
-"347 913 LINE",
-"291 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -19773,21 +19733,13 @@ position = "{319, 686}";
 components = (
 {
 name = O;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"369 751 LINE",
-"447 910 LINE",
-"446 913 LINE",
-"326 913 LINE",
-"270 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -19799,63 +19751,33 @@ rightKerningGroup = O;
 },
 {
 glyphname = Sacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{273, 686}";
-}
-);
 components = (
 {
 name = S;
+},
+{
+name = acutecomb.case.loclPLK;
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"314 751 LINE",
-"392 910 LINE",
-"391 913 LINE",
-"301 913 LINE",
-"245 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
 width = 547;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{273, 686}";
-}
-);
 components = (
 {
 name = S;
+},
+{
+name = acutecomb.case.loclPLK;
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"323 751 LINE",
-"401 910 LINE",
-"400 913 LINE",
-"280 913 LINE",
-"224 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -19867,7 +19789,7 @@ rightKerningGroup = S;
 },
 {
 glyphname = Zacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -19879,21 +19801,13 @@ position = "{250, 686}";
 components = (
 {
 name = Z;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, -23, 0}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"291 751 LINE",
-"369 910 LINE",
-"368 913 LINE",
-"278 913 LINE",
-"222 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -19909,21 +19823,13 @@ position = "{250, 686}";
 components = (
 {
 name = Z;
+},
+{
+name = acutecomb.case.loclPLK;
+transform = "{1, 0, 0, 1, -23, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"300 751 LINE",
-"378 910 LINE",
-"377 913 LINE",
-"257 913 LINE",
-"201 751 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -40866,7 +40772,7 @@ rightKerningGroup = y.loclGUA;
 },
 {
 glyphname = cacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -40878,21 +40784,12 @@ position = "{205, 526}";
 components = (
 {
 name = c;
+},
+{
+name = acutecomb.loclPLK;
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"246 591 LINE",
-"324 750 LINE",
-"323 753 LINE",
-"233 753 LINE",
-"177 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -40908,21 +40805,13 @@ position = "{237, 526}";
 components = (
 {
 name = c;
+},
+{
+name = acutecomb.loclPLK;
+transform = "{1, 0, 0, 1, 9, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"287 591 LINE",
-"365 750 LINE",
-"364 753 LINE",
-"244 753 LINE",
-"188 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -40934,7 +40823,7 @@ rightKerningGroup = c;
 },
 {
 glyphname = nacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -40946,21 +40835,13 @@ position = "{228, 526}";
 components = (
 {
 name = n;
+},
+{
+name = acutecomb.loclPLK;
+transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"269 591 LINE",
-"347 750 LINE",
-"346 753 LINE",
-"256 753 LINE",
-"200 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -40976,21 +40857,13 @@ position = "{250, 526}";
 components = (
 {
 name = n;
+},
+{
+name = acutecomb.loclPLK;
+transform = "{1, 0, 0, 1, 22, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"300 591 LINE",
-"378 750 LINE",
-"377 753 LINE",
-"257 753 LINE",
-"201 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -41002,7 +40875,7 @@ rightKerningGroup = n;
 },
 {
 glyphname = oacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -41014,21 +40887,13 @@ position = "{228, 526}";
 components = (
 {
 name = o;
+},
+{
+name = acutecomb.loclPLK;
+transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"269 591 LINE",
-"347 750 LINE",
-"346 753 LINE",
-"256 753 LINE",
-"200 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -41044,21 +40909,13 @@ position = "{250, 526}";
 components = (
 {
 name = o;
+},
+{
+name = acutecomb.loclPLK;
+transform = "{1, 0, 0, 1, 22, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"300 591 LINE",
-"378 750 LINE",
-"377 753 LINE",
-"257 753 LINE",
-"201 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -41070,63 +40927,33 @@ rightKerningGroup = o;
 },
 {
 glyphname = sacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{205, 526}";
-}
-);
 components = (
 {
 name = s;
+},
+{
+name = acutecomb.loclPLK;
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"246 591 LINE",
-"324 750 LINE",
-"323 753 LINE",
-"233 753 LINE",
-"177 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
 width = 410;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{228, 526}";
-}
-);
 components = (
 {
 name = s;
+},
+{
+name = acutecomb.loclPLK;
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"278 591 LINE",
-"356 750 LINE",
-"355 753 LINE",
-"235 753 LINE",
-"179 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -41138,7 +40965,7 @@ rightKerningGroup = s;
 },
 {
 glyphname = zacute.loclPLK;
-lastChange = "2021-10-04 15:33:45 +0000";
+lastChange = "2021-10-04 17:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -41150,21 +40977,12 @@ position = "{205, 526}";
 components = (
 {
 name = z;
+},
+{
+name = acutecomb.loclPLK;
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"246 591 LINE",
-"324 750 LINE",
-"323 753 LINE",
-"233 753 LINE",
-"177 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:21:58 +0000";
 };
@@ -41180,21 +40998,13 @@ position = "{205, 526}";
 components = (
 {
 name = z;
+},
+{
+name = acutecomb.loclPLK;
+transform = "{1, 0, 0, 1, -23, 0}";
 }
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
-paths = (
-{
-closed = 1;
-nodes = (
-"255 591 LINE",
-"333 750 LINE",
-"332 753 LINE",
-"212 753 LINE",
-"156 591 LINE"
-);
-}
-);
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2021-10-04 15:17:28 +0000";
 };
@@ -64442,6 +64252,56 @@ leftKerningGroup = macronbelowcomb.case;
 rightKerningGroup = macronbelowcomb.case;
 },
 {
+glyphname = acutecomb.loclPLK;
+lastChange = "2021-10-04 17:55:14 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{205, 526}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"246 591 LINE",
+"324 750 LINE",
+"323 753 LINE",
+"233 753 LINE",
+"177 591 LINE"
+);
+}
+);
+width = 410;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{228, 526}";
+}
+);
+layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
+paths = (
+{
+closed = 1;
+nodes = (
+"278 591 LINE",
+"356 750 LINE",
+"355 753 LINE",
+"235 753 LINE",
+"179 591 LINE"
+);
+}
+);
+width = 456;
+}
+);
+},
+{
 glyphname = acute.loclPLK;
 lastChange = "2021-10-04 15:33:45 +0000";
 layers = (
@@ -64462,6 +64322,56 @@ name = acutecomb;
 );
 layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
 width = 0;
+}
+);
+},
+{
+glyphname = acutecomb.case.loclPLK;
+lastChange = "2021-10-04 17:55:37 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{273, 686}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"314 751 LINE",
+"392 910 LINE",
+"391 913 LINE",
+"301 913 LINE",
+"245 751 LINE"
+);
+}
+);
+width = 547;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{273, 686}";
+}
+);
+layerId = "6BE63C16-C0A2-455B-B98F-898E8B71A2C9";
+paths = (
+{
+closed = 1;
+nodes = (
+"323 751 LINE",
+"401 910 LINE",
+"400 913 LINE",
+"280 913 LINE",
+"224 751 LINE"
+);
+}
+);
+width = 547;
 }
 );
 },

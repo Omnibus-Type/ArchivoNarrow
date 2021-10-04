@@ -45,4 +45,3 @@ stat:
       values:
       - name: Italic
         value: 1
-buildStatic: False
