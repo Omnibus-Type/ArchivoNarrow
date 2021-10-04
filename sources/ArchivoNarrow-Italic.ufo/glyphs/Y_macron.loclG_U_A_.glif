@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ymacron.loclGUA" format="2">
-  <advance width="540"/>
-  <outline>
-    <component base="Y.loclGUA"/>
-    <component base="macroncomb.case" xOffset="167" yOffset="160"/>
-  </outline>
-</glyph>
