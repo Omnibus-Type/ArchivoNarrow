@@ -13,10 +13,10 @@ mkdir -p ../fonts
 mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m ArchivoNarrow-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m ArchivoNarrow-Roman.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m ArchivoNarrow-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m ArchivoNarrow-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+# fontmake -m ArchivoNarrow-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m ArchivoNarrow-Roman.designspace -i -o otf --output-dir ../fonts/otf/
+# fontmake -m ArchivoNarrow-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m ArchivoNarrow-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -m ArchivoNarrow-Roman.designspace -o variable --output-path ../fonts/variable/ArchivoNarrow[wght].ttf
@@ -42,6 +42,9 @@ do
 	gftools fix-dsig -f $vf;
 	# ./ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
 	# mv "$vf.fix" $vf;
+	gftools gen-stat $vf --src stat.yaml;
+	# gftools fix-hinting $vf;
+	if [ -f "$vf.fix" ]; then mv "$vf.fix" $vf; fi
 done
 
 echo "Fixing VF Meta"
