@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "3133";
 classes = (
 {
 automatic = 1;
@@ -10,21 +10,25 @@ name = Uppercase;
 copyright = "Copyright 2019 The Archivo Narrow Project Authors (https://github.com/Omnibus-Type/ArchivoNarrow)";
 customParameters = (
 {
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = description;
 value = "Archivo Narrow was designed to be used simultaneously in print and digital platforms. The technical and aesthetic characteristics of the font are both crafted for high performance typography.";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = fsType;
-value = (
-);
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -35,13 +39,18 @@ name = trademark;
 value = "Archivo is a trademark of Omnibus-Type.";
 },
 {
-name = "Use Typo Metrics";
-value = 1;
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2018-08-13 01:47:22 +0000";
 designer = "Hector Gatti";
-designerURL = "http://www.omnibus-type.com";
+designerURL = "https://www.omnibus-type.com";
 disablesNiceNames = 1;
 familyName = "Archivo Narrow";
 featurePrefixes = (
@@ -25065,9 +25074,15 @@ rightKerningGroup = z;
 },
 {
 glyphname = f_f;
-lastChange = "2021-10-04 15:30:09 +0000";
+lastChange = "2022-11-11 09:38:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{219, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -25085,6 +25100,12 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
 width = 438;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{273, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -25107,9 +25128,19 @@ rightKerningGroup = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2021-10-04 15:30:09 +0000";
+lastChange = "2022-11-11 09:38:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{222, 0}";
+},
+{
+name = caret_2;
+position = "{444, 0}";
+}
+);
 components = (
 {
 name = f_f;
@@ -25127,6 +25158,16 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = i;
 width = 666;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{258, 0}";
+},
+{
+name = caret_2;
+position = "{516, 0}";
+}
+);
 components = (
 {
 name = f_f;
@@ -25149,9 +25190,19 @@ rightKerningGroup = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-10-04 15:30:09 +0000";
+lastChange = "2022-11-11 09:38:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{206.667, 0}";
+},
+{
+name = caret_2;
+position = "{413.333, 0}";
+}
+);
 components = (
 {
 name = f_f;
@@ -25169,6 +25220,16 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = l;
 width = 620;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{258, 0}";
+},
+{
+name = caret_2;
+position = "{516, 0}";
+}
+);
 components = (
 {
 name = f_f;
@@ -25191,9 +25252,15 @@ rightKerningGroup = l;
 },
 {
 glyphname = fi;
-lastChange = "2021-10-04 15:30:09 +0000";
+lastChange = "2022-11-11 09:38:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{228, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -25266,6 +25333,12 @@ layerId = master01;
 width = 456;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{250.5, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -25344,9 +25417,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2021-10-04 15:30:09 +0000";
+lastChange = "2022-11-11 09:38:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{205, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -25410,6 +25489,12 @@ layerId = master01;
 width = 410;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{250.5, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -43748,11 +43833,11 @@ layers = (
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.1405, 1, 52, 0}";
+transform = "{1, 0, 0, 1, 52, 0}";
 },
 {
 name = minute;
-transform = "{1, 0, 0.1405, 1, -68, 0}";
+transform = "{1, 0, 0, 1, -68, 0}";
 }
 );
 layerId = master01;
@@ -43762,11 +43847,11 @@ width = 277;
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.1405, 1, 55, 0}";
+transform = "{1, 0, 0, 1, 55, 0}";
 },
 {
 name = minute;
-transform = "{1, 0, 0.1405, 1, -87, 0}";
+transform = "{1, 0, 0, 1, -87, 0}";
 }
 );
 layerId = "30DBB219-9405-42B4-AC5C-321584D80457";
@@ -43785,7 +43870,7 @@ layers = (
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.1405, 1, -68, 0}";
+transform = "{1, 0, 0, 1, -68, 0}";
 }
 );
 layerId = master01;
@@ -43795,7 +43880,7 @@ width = 157;
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.1405, 1, -87, 0}";
+transform = "{1, 0, 0, 1, -87, 0}";
 }
 );
 layerId = "30DBB219-9405-42B4-AC5C-321584D80457";
@@ -49403,7 +49488,7 @@ w = {
 };
 };
 manufacturer = "Omnibus-Type";
-manufacturerURL = "http://www.omnibus-type.com";
+manufacturerURL = "https://www.omnibus-type.com";
 unitsPerEm = 1000;
 userData = {
 UFO.lib = {
@@ -49712,5 +49797,5 @@ zerosuperior = uni2070;
 UFOFormat = 3;
 };
 versionMajor = 3;
-versionMinor = 1;
+versionMinor = 2;
 }
